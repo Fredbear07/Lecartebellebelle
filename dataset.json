@@ -3,10 +3,7 @@
         "id": "UG9rZW1vbjowMDE=",
         "number": "001",
         "name": "Bulbasaur",
-        "weight": {
-          "minimum": "6.04kg",
-          "maximum": "7.76kg"
-        },
+            
         "height": {
           "minimum": "0.61m",
           "maximum": "0.79m"
